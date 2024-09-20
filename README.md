@@ -1,9 +1,6 @@
-  |  
-\ |  
- \|  
-  |\ 
-  | \
-  |                                                                              
+
+                                                                      ![Netsploit](https://github.com/user-attachments/assets/7c0cc811-08c8-45a1-ac7a-9fb428011947)
+
 # <br>
 A multitool to exploit security vulnerabilitys in german schools
 :Netsploit Librarys <br>
