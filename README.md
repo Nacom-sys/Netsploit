@@ -6,15 +6,17 @@ A multitool to exploit security vulnerabilitys in german schools
 -Paysploit <br>
 -Shellsploit <br>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-:Loadsploit Features  
+**:Loadsploit Features**  
 <br>
 Loading external librarys if failed to download on Github
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-:Bansploit Features  
+**:Bansploit Features**  
 <br>
 Banning domain users for 5 to 15 minutes from logging in (time is realted to the domain settings)
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-:Paysploit Features <br>
+**:Paysploit Features** <br>
 -Paysploit includes following features: <br>
 -Opening CD Drive forever <br>
 -Playing music hidden from the user (current song:https://www.youtube.com/watch?v=d1YBv2mWll0) <br>
@@ -34,8 +36,9 @@ You can choose on all features. <br>
 
 Usage on Extra mode: <br>
 syntax: Netsploit.Paysploit target mode(Extra) name ON/OFF(first extra is the CD Drive opener) ON/OFF(second Extra is the download of the soundfile) ON/OFF(third Extra is the download of the crash blocks summoner) ON/OFF(fourth extra is the copy of the files into the start directory) <br>
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-Syntax / usage: <br>
+**Syntax / usage:** <br>
 Start NetsploitMain.cmd <br>
 Load all Librarys if not downloaded with Github: Netsploit.Loadsploit all <br>
 Simple syntax: Netsploit.Command target mode optional Extra1 - Extra5 <br>
