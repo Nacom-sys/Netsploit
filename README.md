@@ -3,7 +3,7 @@
 |  \| |/ _ \ __/ __| '_ \| |/ _ \| | __| <br>
 | |\  |  __/ |_\__ \ |_) | | (_) | | |_ <br>
 |_| \_|\___|\__|___/ .__/|_|\___/|_|\__| <br>
-                   |_|                       <br>                                                                                                 
+                   |_|                       <br>                                                                                         
 # <br>
 A multitool to exploit security vulnerabilitys in german schools
 :Netsploit Librarys <br>
