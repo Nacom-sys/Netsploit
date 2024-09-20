@@ -1,5 +1,5 @@
 ![alt text](https://github.com/Nacom-sys/Netsploit/blob/main/Netsploit.png?raw=true)<br>
-![alt text](https://github.com/Nacom-sys/Netsploit/blob/main/Netsploit.png?raw=true)<br>
+![alt text](https://github.com/Nacom-sys/Netsploit/blob/main/NetsploitDec.png?raw=true)<br>
 # <br>
 A multitool to exploit security vulnerabilitys in german schools
 :Netsploit Librarys <br>
