@@ -7,9 +7,11 @@ A multitool to exploit security vulnerabilitys in german schools
 -Shellsploit
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 :Loadsploit Features  
+-
 Loading external librarys if failed to download on Github
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 :Bansploit Features  
+-
 Banning domain users for 5 to 15 minutes from logging in (time is realted to the domain settings)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 :Paysploit Features
